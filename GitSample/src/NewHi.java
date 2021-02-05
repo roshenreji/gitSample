@@ -1,12 +1,15 @@
 
 public class NewHi {
 
-	public static void run() {
-		System.out.println("Run");
+	public static void dance() {
+		System.out.println("Dance");
 	}
 	public static void main(String[] args) {
-		run();
+			dance();
 
 	}
 
 }
+
+
+
